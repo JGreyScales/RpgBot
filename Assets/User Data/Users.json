@@ -1,0 +1,16 @@
+{
+    "placeholder":{
+        "places":1,
+        "location":"place",
+        "level":20,
+        "stats":{
+            "str":2,
+            "chr":5,
+            "agi":27
+        },
+        "inv":{
+            "item":["item", 23, 50],
+            "item2":["itemplace", 41, 14]
+        }
+    }
+}
